@@ -11,3 +11,11 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+
+greetings == Hello grandma
+if "{greetings}" 
+  puts "HUH?! SPEAK UP, SONNY!"
+else 
+  
+end
